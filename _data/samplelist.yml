@@ -1,0 +1,11 @@
+docs_list_title: MENU
+docs:
+
+- title: Links
+  url: links/links.md
+
+- title: Tips and tricks
+  url: tips/tips.md
+
+- title: Tutorials
+  url: tutorials/tutorials.md
