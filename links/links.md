@@ -22,6 +22,7 @@ Links to tutorials, podcasts, videos and any other interesting and useful resour
 ### Machine Learning and Artifical Intelligence
 
 - [Deep Learning AI](https://learn.deeplearning.ai/) - the best website with short courses on the AI tools. Get to know how to build own chat bot based on OpenAI API, or Meta Llama, as well as how to start with building AI agents and much more.
+- [How to build multimodal RAG system](https://www.youtube.com/watch?v=Rg35oYuus-w) - RAG systems allowed to load docuiments into the chat like GPT and ask questions about that document.
 
 #### Videos
 
