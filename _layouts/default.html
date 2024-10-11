@@ -18,7 +18,13 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-
+ <nav>
+          <ul>
+            {% for item in site.data.navigation %}
+              <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
         <ul>
           {% if site.show_downloads %}
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
@@ -26,13 +32,7 @@
           {% endif %}
           <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
         </ul>
-        <nav>
-          <ul>
-            {% for item in site.data.navigation %}
-              <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
+       
 
         {% if site.github.is_project_page %}
           <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
