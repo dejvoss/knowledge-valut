@@ -1,0 +1,8 @@
+- name: "Home"
+  link: "/"
+- name: "Tutorials"
+  link: "/tutorials"
+- name: "Best Practices"
+  link: "/best-practices"
+- name: "Useful Links"
+  link: "/links"
