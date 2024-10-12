@@ -29,3 +29,8 @@ Links to tutorials, podcasts, videos and any other interesting and useful resour
 - [ROC, and AU - simple explained](https://www.youtube.com/watch?v=4jRBRDbJemM) - ROC, and AU are performance measures for binary classifier.
 - [Sensitivity and Specificity Explained Clearly](https://www.youtube.com/watch?v=Z5TtopYX1Gc) - Machine learning success metrics sensitivity and specifity.
 - [How should we evaluate Machine Learning models for AI](https://www.youtube.com/watch?v=7CcSm0PAr-Y)
+
+
+### Not Python directly, but still useful.
+
+- [Charts for streaming data - JS library](http://smoothiecharts.org)
