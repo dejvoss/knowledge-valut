@@ -1,5 +1,5 @@
 
-#### Python i asyncio - programowanie asynchroniczne. Chleb Hatting.
+#### Python i asyncio - programowanie asynchroniczne. Chleb Hattingh.
 
 Linki do pogłębienia wiedzy poruszonej w książce.
 
