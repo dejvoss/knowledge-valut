@@ -1,5 +1,5 @@
-# python-collection
-Collection of python tips, tricks, tutorials and othre resources.
+# Knowledge Valut
+Collection of tips, tricks, tutorials, links and other resources.
 
 
 [Links](links/links.md)
