@@ -31,6 +31,8 @@ Links to tutorials, podcasts, videos and any other interesting and useful resour
 - [How should we evaluate Machine Learning models for AI](https://www.youtube.com/watch?v=7CcSm0PAr-Y)
 
 
-### Not Python directly, but still useful.
+## Not Python directly, but still useful.
 
 - [Charts for streaming data - JS library](http://smoothiecharts.org)
+- [CasaOs](https://casaos.zimaspace.com/) - Personal Cloud platform to host on own server - perfect for home usage.
+- [NextCloud](https://nextcloud.com/) - Cloud platform - alternative to GDrive or MS Sharepoint - to host on own server - great for companies.
