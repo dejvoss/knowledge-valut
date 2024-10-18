@@ -42,5 +42,5 @@ Links to tutorials, podcasts, videos and any other interesting and useful resour
 - [KISS - Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle): The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided.
 - [YAGNI - You Aren't Gonna Need It](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): The YAGNI principle states that a programmer should not add functionality until deemed necessary.
 - [SOLID](https://en.wikipedia.org/wiki/SOLID): SOLID is an acronym for five design principles intended to make software designs more understandable, flexible, and maintainable.
-- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle): A class should have only a single responsibility.
+- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle): A class, function, method should have only a single responsibility.
 - [Open/Closed Principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): Software entities should be open for extension but closed for modification.
