@@ -5,4 +5,6 @@
 - [SOLID](https://en.wikipedia.org/wiki/SOLID): SOLID is an acronym for five design principles intended to make software designs more understandable, flexible, and maintainable.
 - [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle): A class, function, method should have only a single responsibility.
 - [Open/Closed Principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): Software entities should be open for extension but closed for modification.
+
+## Programming overall
 - [Source code from The Self-Taught Computer Scientist](https://github.com/calthoff/tstcs_challenge_solutions/tree/main) - Source code from the book of Cory Althoff "The Self-Taught Computer Scientist". Code in Python shows how to implement basics algorithms and data structures, like sorting algorithms, binary trees, etc.
