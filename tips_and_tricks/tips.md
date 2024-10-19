@@ -15,3 +15,43 @@ git remote set-url origin https://<TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git
 ```
 3. Once you clone the repo that way you can push and pull the changes without the need to enter the username and password.
 
+### Comparing two lists in python
+To compare two lists, the best would be to get the unique elements from both lists. To do that we can convert list to set:
+```python
+list1 = [1, 2, 2, 3, 4, 5]
+set(list1)
+```
+The output will be:
+```python
+{1, 2, 3, 4, 5}
+```
+Now we can compare two sets:
+```python
+list1 = [1, 2, 2, 3, 4, 5]
+list2 = [1, 2, 3, 4, 5]
+set(list1) == set(list2)
+```
+The output will be:
+```python
+True
+```
+Sometimes, except to compare we want also to know the common elements of two lists. To do that we can use the following code:
+```python
+list1 = [1, 2, 2, 3, 4, 5]
+list2 = [1, 2, 3, 4, 5]
+set(list1).intersection(set(list2))
+```
+The output will be:
+```python
+{1, 2, 3, 4, 5}
+```
+One more example:
+```python
+list1 = [1, 2, 2, 3, 4, 5]
+list2 = [5, 6, 7, 8, 9, 10]
+set(list1).intersection(set(list2))
+```
+The output will be:
+```python
+{5}
+```
