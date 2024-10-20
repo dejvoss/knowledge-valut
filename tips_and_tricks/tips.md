@@ -55,3 +55,11 @@ The output will be:
 ```python
 {5}
 ```
+
+## Queue and heap in python
+Queue and heap are two data structures that can be used in python. There are two libraries in python that can be used to create a queue and heap - queue and heapq.
+
+```python
+from queue import Queue
+from heapq import heappush, heappop
+```
