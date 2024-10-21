@@ -7,3 +7,4 @@ Collection was made to help me and others to find interesting and useful resourc
 - [Programming overall](programming.md)
 - [IT related](it-related.md)
 - [Machine Learning and AI](ml-ai.md)
+- [Linki do tekstów w rodzimym języku](polish.md)
