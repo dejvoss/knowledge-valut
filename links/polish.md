@@ -1,4 +1,4 @@
-# Wiedza wchodzi lepiej, jeżeli jest w natywnym języku.
+# Czasem poprostu jest przyjemniej i łatwiej poczytać po swojemu
 
 Kolekcja linków do artykułów i blogów dotyczących programowania, informatyki, danych, itp. w języku polskim.
 
