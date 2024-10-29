@@ -54,3 +54,16 @@ Queue and heap are two data structures that can be used in python. There are two
 from queue import Queue
 from heapq import heappush, heappop
 ```
+
+## Keyboard shortcuts in Jupyter notebooks
+- `Shift + Enter` - run the cell
+- `Ctrl + Enter` - run the cell without moving to the next cell
+- `Alt + Enter` - run the cell and create a new cell below
+- `Esc` - go to command mode
+- `Enter` - go to edit mode
+- `Esc, a` - create a new cell above
+- `Esc, b` - create a new cell below
+- `Esc, dd` - delete the cell
+- `Esc, m` - change the cell to markdown
+- `Esc, y` - change the cell to code
+- `Esc, l` - show the line numbers
