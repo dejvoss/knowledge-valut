@@ -10,6 +10,11 @@
 - [What do computer see?](https://www.oreilly.com/content/what-do-computers-see/?v=KiftWz544_8) - O'reilly article about how computers see the world.
 - [Understanding Neural Networks Through Deep Visualization](https://yosinski.com/deepvis) - Paper about how to visualize neural networks.
 - [How do Convolutional Neural Networks work?](https://e2eml.school/how_convolutional_neural_networks_work.html) - Convolutional Neural Networks are a type of deep learning algorithm that can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image, and be able to differentiate one from the other. 
+- [Convolutional Neural Net in Tensorflow](https://blog.goodaudience.com/convolutional-neural-net-in-tensorflow-e15e43129d7d) - Convolutional Neural Networks (CNN) are a class of deep neural networks, most commonly applied to analyzing visual imagery.
+- [Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.](https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a) - 9 Steps to Building a Deep Convolutional Neural Net in Excel for Normal Humans.
+- [What is the class of this image ?](https://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html) - MNIST - Who is the best in MNIST classification.
+- [Convolutional Neural-Network for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-cnn) - Convolutional Neural Network for MNIST dataset. 
+- [How to Develop a CNN for MNIST Handwritten Digit Classification](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/) - How to Develop a Convolutional Neural Network From Scratch for MNIST Handwritten Digit Classification.
 
 ## Videos
 
@@ -20,6 +25,7 @@
 - [Rethinking software engineering in the AI era - Yangqing Jia (Facebook)](https://www.youtube.com/watch?v=fUMYh1lkNPE) - Yangqing Jia, Director of Engineering at Facebook, discusses the future of software engineering in the AI era.
 - [The illusion of consciousness | Dan Dennett](https://www.youtube.com/watch?v=fjbWr3ODbAo) - Dan Dennett, a philosopher and cognitive scientist, discusses the illusion of consciousness.
 - [The Convolution Layer (CNN Visualization)](https://www.youtube.com/watch?v=KiftWz544_8) - CNN visualization.
+- [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4) - CNN explained.
 - 
 
 ## Libraries, software, and tools
