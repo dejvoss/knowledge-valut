@@ -7,12 +7,20 @@
 - [F1 score and it formula](https://en.wikipedia.org/wiki/F-score) - F1 score is a measure of a test's accuracy. It considers both the precision p and the recall r.
 - [Why is the f1 measure a harmonic mean and not an arithmetic mean of the precision and recall measures?](https://stackoverflow.com/questions/26355942/why-is-the-f-measure-a-harmonic-mean-and-not-an-arithmetic-mean-of-the-precision) - StackOverflow question about F1 score and why it is a harmonic mean.
 - [Deeply about the F1 measure](https://mikulskibartosz.name/f1-score-explained) - How the F1 measure works inside. 
+- [What do computer see?](https://www.oreilly.com/content/what-do-computers-see/?v=KiftWz544_8) - O'reilly article about how computers see the world.
+- [Understanding Neural Networks Through Deep Visualization](https://yosinski.com/deepvis) - Paper about how to visualize neural networks.
+- [How do Convolutional Neural Networks work?](https://e2eml.school/how_convolutional_neural_networks_work.html) - Convolutional Neural Networks are a type of deep learning algorithm that can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image, and be able to differentiate one from the other. 
 
 ## Videos
 
 - [ROC, and AU - simple explained](https://www.youtube.com/watch?v=4jRBRDbJemM) - ROC, and AU are performance measures for binary classifier.
 - [Sensitivity and Specificity Explained Clearly](https://www.youtube.com/watch?v=Z5TtopYX1Gc) - Machine learning success metrics sensitivity and specifity.
 - [How should we evaluate Machine Learning models for AI](https://www.youtube.com/watch?v=7CcSm0PAr-Y)
+- [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw) - Matt Zeiler, founder of Clarifai, explains how to visualize and understand deep neural networks.
+- [Rethinking software engineering in the AI era - Yangqing Jia (Facebook)](https://www.youtube.com/watch?v=fUMYh1lkNPE) - Yangqing Jia, Director of Engineering at Facebook, discusses the future of software engineering in the AI era.
+- [The illusion of consciousness | Dan Dennett](https://www.youtube.com/watch?v=fjbWr3ODbAo) - Dan Dennett, a philosopher and cognitive scientist, discusses the illusion of consciousness.
+- [The Convolution Layer (CNN Visualization)](https://www.youtube.com/watch?v=KiftWz544_8) - CNN visualization.
+- 
 
 ## Libraries, software, and tools
 
