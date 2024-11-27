@@ -23,9 +23,9 @@
 - [How should we evaluate Machine Learning models for AI](https://www.youtube.com/watch?v=7CcSm0PAr-Y)
 - [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw) - Matt Zeiler, founder of Clarifai, explains how to visualize and understand deep neural networks.
 - [Rethinking software engineering in the AI era - Yangqing Jia (Facebook)](https://www.youtube.com/watch?v=fUMYh1lkNPE) - Yangqing Jia, Director of Engineering at Facebook, discusses the future of software engineering in the AI era.
-- [The illusion of consciousness | Dan Dennett](https://www.youtube.com/watch?v=fjbWr3ODbAo) - Dan Dennett, a philosopher and cognitive scientist, discusses the illusion of consciousness.
+- [The illusion of consciousness - Dan Dennett](https://www.youtube.com/watch?v=fjbWr3ODbAo) - Dan Dennett, a philosopher and cognitive scientist, discusses the illusion of consciousness.
 - [The Convolution Layer (CNN Visualization)](https://www.youtube.com/watch?v=KiftWz544_8) - CNN visualization.
-- [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4) - CNN explained.
+- [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator - Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4) - CNN explained.
 - 
 
 ## Libraries, software, and tools
