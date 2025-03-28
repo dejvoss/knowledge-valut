@@ -1,7 +1,8 @@
 # Knowledge Valut
 Collection of tips, tricks, tutorials, links and other resources.
 
-The latest tutorials:
+## The latest tutorials:
+
 [Home](https://dejvoss.github.io/knowledge-valut)
 
 [Links](links/links.md)
