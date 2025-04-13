@@ -19,3 +19,7 @@ place to keep the interesting things, and links found somewhere in the internet.
 
 - [iceriver ks0 software fork](https://github.com/rdugan/iceriver-oc)
 - [grafana dashboard for goldshell minners](https://grafana.com/grafana/dashboards/15313-goldshell-minidoge/)
+
+## automation
+
+- [n8n on own server](https://dev.to/code42cate/self-hosting-n8n-on-ubuntu-server-2p7h)
