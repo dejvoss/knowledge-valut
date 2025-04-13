@@ -11,6 +11,8 @@ Collection of tips, tricks, tutorials, links and other resources.
 
 [Tutorials](tutorials/tutorials.md)
 
+[Found in the internet](foundinnet/main.md)
+
 ## Latest articles:
 
 [Tips and tricks for Python programming](tips_and_tricks/python.md)
