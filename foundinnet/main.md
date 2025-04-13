@@ -7,6 +7,8 @@ place to keep the interesting things, and links found somewhere in the internet.
 
 - [13 rasberry pi projects for 2025](https://www.slashgear.com/1765976/best-raspberry-pi-projects-2025)
 
+- [eink rasberry pi projects to look at](https://www.xda-developers.com/e-ink-raspberry-pi-projects/)
+
 ## 3d print and design
 
 - [CAD in Jupiter notebook](https://blog.jupyter.org/announcing-jupytercad-3-0-d8f4b7b0a719) - if is in Jupiter then maybe LLM can be integrated
