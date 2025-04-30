@@ -26,3 +26,6 @@ The topic is so wide that it deserves a separate section. Here are some resource
 
 ## Django
 - [Django Channels](https://channels.readthedocs.io/en/latest/) - Django Channels is a project that takes Django and extends its abilities beyond HTTP - to handle WebSockets, chat protocols, IoT protocols, and more.
+
+## Python others
+- [Python 13 got new feature - removed biggest bottleneck GIL](https://www.kubeblogs.com/pythons-biggest-bottleneck-just-got-optional/)
