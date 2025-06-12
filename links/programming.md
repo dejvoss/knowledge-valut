@@ -8,3 +8,7 @@
 
 ## Programming overall
 - [Source code from The Self-Taught Computer Scientist](https://github.com/calthoff/tstcs_challenge_solutions/tree/main) - Source code from the book of Cory Althoff "The Self-Taught Computer Scientist". Code in Python shows how to implement basics algorithms and data structures, like sorting algorithms, binary trees, etc.
+
+## React
+- [Babeljs](https://babeljs.io/repl/) - interactive playground to train your jsx skills.
+- [Magic React](https://magic.reactjs.net/htmltojsx.htm) - Html to JSX converter. 
